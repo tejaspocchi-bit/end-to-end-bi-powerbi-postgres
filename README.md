@@ -59,20 +59,21 @@ The objective of this project is to showcase **data engineering, SQL, and Power 
 📁 end-to-end-bi-powerbi-postgres
 │
 ├── 📁 data
-│ └── raw_csv_files.csv
+│   └── raw_csv_files.csv
 │
 ├── 📁 sql
-│ ├── table_creation.sql
-│ ├── data_cleaning.sql
-│ └── left_join_query.sql
+│   ├── table_creation.sql
+│   ├── data_cleaning.sql
+│   └── left_join_query.sql
 │
 ├── 📁 powerbi
-│ └── bi_dashboard.pbix
+│   └── bi_dashboard.pbix
 │
 ├── 📁 screenshots
-│ └── dashboard_preview.png
+│   └── dashboard_preview.png
 │
 └── README.md
+
 
 ---
 
